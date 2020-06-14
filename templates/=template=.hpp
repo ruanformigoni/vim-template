@@ -5,9 +5,6 @@
 // Distributed under terms of the %LICENSE% license.
 //
 
-#ifndef %GUARD%
-#define %GUARD%
+#pragma once
 
 %HERE%
-
-#endif /* !%GUARD% */
